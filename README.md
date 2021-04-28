@@ -9,4 +9,6 @@
 ## Register Page
 ![image](https://user-images.githubusercontent.com/62868878/116348585-ff85d680-a80b-11eb-8d56-033aafc7a8a0.png)
 
+## Driver or Passenger Radio Button
+![image](https://user-images.githubusercontent.com/62868878/116348674-29d79400-a80c-11eb-88a1-793a95e80a9b.png)
 
